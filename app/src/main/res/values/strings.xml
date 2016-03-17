@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyJam</string>
+    <string name="hello">Hello Android!</string>
+    <string name="party">Party Image</string>
+    <string name="happy_birthday">Happy Birthday :)</string>
+    <string name="from">From Me</string>
+</resources>
